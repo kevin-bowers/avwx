@@ -14,5 +14,5 @@ After launching the app:
 - Append `?summary` for a more human readable result
 
 ## Data Sources:
-- Airport Info - [ourairports.com](ourairports.com)
-- Weather Info - [avwx.rest](avwx.rest)
+- Airport Info - [ourairports.com](http://ourairports.com)
+- Weather Info - [avwx.rest](http://avwx.rest)
