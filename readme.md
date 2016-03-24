@@ -7,12 +7,12 @@ A RESTful way to get METARs and TAFs
 - Flask
 - SQLite3
 
-### Usage
+## Usage
 After launching the app:
 - Query `/<ICAO_Code>` for METAR
 - Query `/<ICAI_Code>/taf` for TAF
 - Append `?summary` for a more human readable result
 
-### Data Sources:
-Airport Info - [ourairports.com](ourairports.com)
-Weather Info - [avwx.rest](avwx.rest)
+## Data Sources:
+- Airport Info - [ourairports.com](ourairports.com)
+- Weather Info - [avwx.rest](avwx.rest)
